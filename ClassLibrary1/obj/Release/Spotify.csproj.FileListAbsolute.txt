@@ -1,0 +1,9 @@
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\SetlistSpotifyPlaylistCreator\ClassLibrary1\bin\Release\ClassLibrary1.dll
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\SetlistSpotifyPlaylistCreator\ClassLibrary1\bin\Release\ClassLibrary1.pdb
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\SetlistSpotifyPlaylistCreator\ClassLibrary1\bin\Release\Newtonsoft.Json.dll
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\SetlistSpotifyPlaylistCreator\ClassLibrary1\bin\Release\SpotifyAPI.dll
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\SetlistSpotifyPlaylistCreator\ClassLibrary1\bin\Release\Newtonsoft.Json.xml
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\SetlistSpotifyPlaylistCreator\ClassLibrary1\bin\Release\SpotifyAPI.xml
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\SetlistSpotifyPlaylistCreator\ClassLibrary1\obj\Release\Spotify.csprojResolveAssemblyReference.cache
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\SetlistSpotifyPlaylistCreator\ClassLibrary1\obj\Release\ClassLibrary1.dll
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\SetlistSpotifyPlaylistCreator\ClassLibrary1\obj\Release\ClassLibrary1.pdb
