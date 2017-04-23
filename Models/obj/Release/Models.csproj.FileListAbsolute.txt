@@ -1,0 +1,5 @@
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\SetlistSpotifyPlaylistCreator\Models\bin\Release\Models.dll
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\SetlistSpotifyPlaylistCreator\Models\bin\Release\Models.pdb
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\SetlistSpotifyPlaylistCreator\Models\obj\Release\Models.csprojResolveAssemblyReference.cache
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\SetlistSpotifyPlaylistCreator\Models\obj\Release\Models.dll
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\SetlistSpotifyPlaylistCreator\Models\obj\Release\Models.pdb
