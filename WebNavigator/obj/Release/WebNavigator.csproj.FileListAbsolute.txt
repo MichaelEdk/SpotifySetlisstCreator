@@ -1,0 +1,9 @@
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\SetlistSpotifyPlaylistCreator\WebNavigator\bin\Release\WebNavigator.dll
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\SetlistSpotifyPlaylistCreator\WebNavigator\bin\Release\WebNavigator.pdb
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\SetlistSpotifyPlaylistCreator\WebNavigator\bin\Release\Models.dll
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\SetlistSpotifyPlaylistCreator\WebNavigator\bin\Release\WebDriver.dll
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\SetlistSpotifyPlaylistCreator\WebNavigator\bin\Release\Models.pdb
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\SetlistSpotifyPlaylistCreator\WebNavigator\bin\Release\WebDriver.xml
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\SetlistSpotifyPlaylistCreator\WebNavigator\obj\Release\WebNavigator.csprojResolveAssemblyReference.cache
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\SetlistSpotifyPlaylistCreator\WebNavigator\obj\Release\WebNavigator.dll
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\SetlistSpotifyPlaylistCreator\WebNavigator\obj\Release\WebNavigator.pdb
